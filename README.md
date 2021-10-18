@@ -1,4 +1,4 @@
-# APEX - anomalous ip labels
+# APEX - Anomalous IP labels
 Labelled IP addresses with analysis on the possible anomaly types. The IP addresses and network traffic traces we investigated are from the MAWI Archive (https://mawi.wide.ad.jp/mawi/)
 
 ## Links for the raw traffic traces (.pacp) of specific date can be found at:
