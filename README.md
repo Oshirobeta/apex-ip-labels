@@ -1,6 +1,7 @@
 # APEX - Anomalous IP labels
-The CSV contains SrcIP addresses that are found as anomalous based on manual investigations, and the explanations for the same. In other words, they provide the ground truth.\
-The original traffic is obtained from *MAWI Archive (https://mawi.wide.ad.jp/mawi/)*, and specifically these are the dates and links to the corresponding pcaps:
+The CSV contains SrcIP addresses that are found as anomalous based on manual investigations, and the explanations for the same. In other words, they provide the ground truth. The original traffic is obtained from *MAWI Archive (https://mawi.wide.ad.jp/mawi/)*.
+
+## Dates and links to the corresponding pcaps:
 * 09-01: http://www.fukuda-lab.org/mawilab/v1.1/2018/09/01/20180901.html
 * 09-02: http://www.fukuda-lab.org/mawilab/v1.1/2018/09/02/20180902.html
 * 09-06: http://www.fukuda-lab.org/mawilab/v1.1/2018/09/06/20180906.html
