@@ -9,3 +9,9 @@ The CSV contains srcIP addresses that are found as anomalous based on manual inv
 * 10-06: http://www.fukuda-lab.org/mawilab/v1.1/2018/10/06/20181006.html
 * 11-07: http://www.fukuda-lab.org/mawilab/v1.1/2018/11/07/20181107.html
 * 12-18: http://www.fukuda-lab.org/mawilab/v1.1/2018/12/18/20181218.html
+
+
+# Relevant Preprint Paper:
+* Reference to the article where the ground truth are described and utilized :
+Kalupahana Liyanage, Kushan Sudheera; Tian, Zixu; Divakaran, Dinil Mon; Chan, Mun Choon; Gurusamy, Mohan (2022): APEX: Characterizing Attack Behaviors from Network Anomalies. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.19070195.v1 
+* Preprint link: https://www.techrxiv.org/articles/preprint/APEX_Characterizing_Attack_Behaviors_from_Network_Anomalies/19070195
