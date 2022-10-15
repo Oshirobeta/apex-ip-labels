@@ -12,4 +12,4 @@ The CSV contains srcIP addresses that are found as anomalous based on manual inv
 
 
 ## Reference to the paper where the ground truth are described and utilized:
-* (IEEE IPCCC Accepted Paper) K. S. K. Liyanage, Z. Tian, D. M. Divakaran, M. C. Chan and M. Gurusamy, "APEX: Characterizing Attack Behaviors from Network Anomalies," 2022 IEEE International Performance, Computing, and Communications Conference (IPCCC), 2022, pp. 207-216, doi: 10.1109/IPCCC55026.2022.9894328.
+* (IEEE IPCCC 2022 Accepted Paper) K. S. K. Liyanage, Z. Tian, D. M. Divakaran, M. C. Chan and M. Gurusamy, "APEX: Characterizing Attack Behaviors from Network Anomalies," 2022 IEEE International Performance, Computing, and Communications Conference (IPCCC), 2022, pp. 207-216, doi: 10.1109/IPCCC55026.2022.9894328.
